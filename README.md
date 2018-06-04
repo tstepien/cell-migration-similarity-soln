@@ -46,3 +46,4 @@ Authors: [Tracy Stepien](http://github.com/tstepien/)
 
 ## Licensing
 
+Copyright 2013-2015 Tracy Stepien.  This is free software made available under the MIT License. For details see the LICENSE.txt file.
