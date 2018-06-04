@@ -18,9 +18,12 @@ where c, n, and a are parameters, are obtained by using a shooting method combin
 ## Plots
 
 + [plot_of_sims.m](plot_of_sims.m) - reproduce Figure 1
+
 ![Figure 1A](fig/fig1a.png)
 ![Figure 1B](fig/fig1b.png)
+
 + [plot_of_manifold.m](plot_of_manifold.m) - reproduce Figure 3
+
 ![Figure 3](fig/fig3.png)
 
 ## Auxiliary Files
