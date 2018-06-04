@@ -9,8 +9,6 @@ Numerical solutions of the boundary value problem (Equation 20)
 
 where c, n, and a are parameters, are obtained by using a shooting method combined with the secant method.
 
-Authors: [Tracy Stepien](http://github.com/tstepien/)
-
 ## Programs
 
 + [program_solve_bvp.m](program_solve_bvp.m): run this program to solve the boundary value problem
@@ -45,4 +43,4 @@ Authors: [Tracy Stepien](http://github.com/tstepien/)
 
 ## Licensing
 
-Copyright 2013-2015 Tracy Stepien.  This is free software made available under the MIT License. For details see the LICENSE file.
+Copyright 2013-2015 [Tracy Stepien](http://github.com/tstepien/).  This is free software made available under the MIT License. For details see the LICENSE file.
