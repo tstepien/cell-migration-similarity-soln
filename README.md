@@ -4,7 +4,9 @@ The MATLAB code contained in the cell-migration-similarity-soln project was deve
 >[Tracy L. Stepien](http://math.arizona.edu/~stepien/) and [Hal L. Smith](http://math.asu.edu/~halsmith/), Existence and uniqueness of similarity solutions of a generalized heat equation arising in a model of cell migration, *Discrete Contin. Dyn. Syst.*, 35 (2015), 3203-3216, DOI: [10.3934/dcds.2015.35.3203](http://dx.doi.org/10.3934/dcds.2015.35.3203).
 
 Numerical solutions of the boundary value problem (Equation 20)
+
 ![system of equations](fig/equations.png)
+
 where c, n, and a are parameters, are obtained by using a shooting method combined with the secant method.
 
 Authors: [Tracy Stepien](http://github.com/tstepien/)
