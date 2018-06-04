@@ -1,7 +1,7 @@
 # cell-migration-similarity-soln
 
 The MATLAB code contained in the cell-migration-similarity-soln project was developed for the work described in:
->[Tracy L. Stepien](http://math.arizona.edu/~stepien/) and [Hal L. Smith](http://math.asu.edu/~halsmith/), Existence and uniqueness of similarity solutions of a generalized heat equation arising in a model of cell migration, *Discrete Contin. Dyn. Syst.*, 35 (2015), 3203-3216, DOI: [10.3934/dcds.2015.35.3203](http://dx.doi.org/10.3934/dcds.2015.35.3203).
+>[Tracy L. Stepien](http://math.arizona.edu/~stepien/) and <a href="http://math.asu.edu/~halsmith/">Hal L. Smith</a>, Existence and uniqueness of similarity solutions of a generalized heat equation arising in a model of cell migration, *Discrete Contin. Dyn. Syst.*, 35 (2015), 3203-3216, DOI: [10.3934/dcds.2015.35.3203](http://dx.doi.org/10.3934/dcds.2015.35.3203).
 
 Numerical solutions of the boundary value problem (Equation 20)
 
