@@ -7,7 +7,7 @@ The MATLAB code contained in the cell-migration-similarity-soln project was deve
 
 Numerical solutions of the boundary value problem (Equation 20)
 
-![system of equations](fig/equations.png)
+![system of equations](fig/equations.svg)
 
 where c, n, and a are parameters, are obtained by using a shooting method combined with the secant method.
 
